@@ -1,0 +1,3 @@
+1|CK001|Blueberry Cake|997|25000
+2|CK002|Chocochip Cake|6|20000
+3|CK003|Chocochip Cookies|58|15000
